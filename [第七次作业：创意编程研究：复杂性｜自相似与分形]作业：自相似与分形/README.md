@@ -4,4 +4,4 @@
 效果图片可在该文件夹中看到
 
 
-<img width="1280" alt="ef7af1396eef0f9813072a1b23b52e3" src="[第七次作业：创意编程研究：复杂性｜自相似与分形]作业：自相似与分形/ef7af1396eef0f9813072a1b23b52e3.png">
+<img width="1280" alt="ef7af1396eef0f9813072a1b23b52e3" src="https://github.com/LuTianYanglty/521433910038-lutianyang/edit/main/[第七次作业：创意编程研究：复杂性｜自相似与分形]作业：自相似与分形/ef7af1396eef0f9813072a1b23b52e3.png">
